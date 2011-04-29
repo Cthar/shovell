@@ -7,6 +7,7 @@ gem 'rails', '3.0.6'
 
 gem 'mysql2', '0.2.7'
 gem 'mongrel', '1.2.0.pre2'
+gem 'heroku', '1.20.1'
 
 # Use unicorn as the web server
 # gem 'unicorn'
